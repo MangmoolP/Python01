@@ -25,7 +25,6 @@ FB2.place(x=80,y=280)
 B2 = ttk.Button(FB1,text='Harry Potter',command=Button2)
 B2.pack(ipadx=20,ipady=20)
 
-
 def Button3():
     text = 'หน้าที่ 153'
     messagebox.showinfo('Money Mindset',text)
